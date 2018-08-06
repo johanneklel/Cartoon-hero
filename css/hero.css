@@ -1,0 +1,71 @@
+html, body{
+	font-family: Courier New;
+	padding: 0;
+	margin: 0;
+}
+
+
+header{
+	background-color: #3d334c;
+	padding: 40px;
+	text-align: center;
+}
+
+h1{
+	font-size: 90px;
+	color: white;
+}
+
+header img{
+	border-radius: 20px;
+	border: 10px solid #27252b;
+}
+
+.content {
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+img.big-image{
+	max-width: 100%;
+}
+
+p.caption{
+	font-size: 14px;
+	color: #898989;
+}
+
+ol{
+	list-style: none;
+	padding: 0;
+	margin:3;
+}
+
+
+ul{
+	list-style: none;
+	padding:0;
+	margin:; 0;
+}
+
+a{
+	color: purple;
+	text-decoration: none;
+}
+
+footer{
+	padding: 40px 20px;
+}
+
+footer ul li{
+	text-align: center;
+}
+
+/*<footer>
+		<ul>
+			<li><a href="https://www.instagram.com/johanne_the_baptist/" target="_blank" title="Dette vil du ikke gå glipp av!">Lagd av Johanne dåperen</a></li>
+			<li>&copy; 2018</li>
+		</ul>
+	</footer>*/
+
